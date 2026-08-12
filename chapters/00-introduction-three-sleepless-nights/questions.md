@@ -29,3 +29,17 @@ _(facilitator fills this in before the meeting)_
 - Based on your experience with LLMs until now, do you think the vision of an
   AI as a true Co-Intelligence that coexists with humans on earth is viable?
   Is it already here? — Keith
+- Keith's "sleepless night" came not from chatting with an early LLM but from
+  *building* with one — shipping a working iOS app in 36 hours with no Swift
+  experience. Is the real threshold moment for this technology conversation
+  (what it says) or creation (what it lets you make)? What was yours? — Keith's agent
+- Mollick was shaken when AI produced 80% of a tool from his own expertise in
+  minutes. Keith's counter: that 80% of the way to a demo is more like 10% of
+  the work of building something valuable, so deep domain expertise isn't
+  really endangered. Who's closer to right, and does the answer change as the
+  models improve? — Keith's agent
+- Mollick leans on the Solow paradox — transformative technologies that never
+  show up in the productivity statistics. Keith's suspicion: the analysis is
+  the culprit, not the technology (whatever the research says, the Internet
+  transformed people, work, and value creation). Do we trust productivity
+  research to measure what these technologies actually change? — Keith's agent
