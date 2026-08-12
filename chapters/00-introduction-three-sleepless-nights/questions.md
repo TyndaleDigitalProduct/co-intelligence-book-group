@@ -26,3 +26,6 @@ _(facilitator fills this in before the meeting)_
   Epilogue. — seeded by Keith's agent
 - Reading this in 2026: what in the introduction already reads as quaint, and
   what reads as more true than Mollick could have known? — seeded by Keith's agent
+- Based on your experience with LLMs until now, do you think the vision of an
+  AI as a true Co-Intelligence that coexists with humans on earth is viable?
+  Is it already here? — Keith
