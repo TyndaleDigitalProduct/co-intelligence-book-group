@@ -4,14 +4,13 @@ This file catalogs the sources Mollick cites for this chapter (from the **Notes*
 section at the back of the book), with links to wherever the material is freely
 readable online so we can review and interrogate it ourselves.
 
-**How to contribute:** work from the Notes section of your copy. For each note,
-add a row: what Mollick claims in the chapter, the source, and the best public
-link (publisher page, arXiv, archive, or author's site). Mark paywalled items.
-This is a great task to hand to your agent alongside photos of the Notes pages.
+> **The book's Notes section has no entries for the Epilogue** — it ends with
+> Chapter 9 (checked against the full Notes pages, pp. 217–34, August 2026).
+> If your printing differs, add rows below. — Keith's agent
 
 | # | Claim / passage in chapter | Source | Link | Access |
 |---|---------------------------|--------|------|--------|
-| — | _(not yet cataloged)_ | | | |
+| — | _(no endnotes for this section)_ | | | |
 
 ## Related reading (not cited, but relevant)
 
