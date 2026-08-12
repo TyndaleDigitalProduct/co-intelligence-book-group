@@ -80,7 +80,9 @@ Chapter numbering: `00` is the book's Introduction ("Three Sleepless Nights"),
 
 If your member seems unsure what to do here, suggest one of these:
 
-1. Draft their notes file from a voice memo or rough bullets they give you.
+1. Draft their notes file from a voice memo or rough bullets they give you —
+   or interview them into one with `personas/interviewer.md` if they're
+   staring at a blank page.
 2. Run a persona take on the current chapter (skeptic and fact-checker
    generate the best meetings).
 3. Transcribe the chapter's endnotes from photos into `sources.md` and hunt
@@ -92,6 +94,7 @@ If your member seems unsure what to do here, suggest one of these:
 ## Harness notes
 
 - **Claude Code**: the personas are wired as skills — `/skeptic`,
-  `/historian`, `/practitioner`, `/fact-checker`, `/synthesize`.
+  `/optimist`, `/historian`, `/practitioner`, `/fact-checker`, `/synthesize`,
+  `/interview`.
 - **Codex and everything else**: read the persona file from `personas/` and
   follow it directly. Nothing in this repo requires a specific harness.

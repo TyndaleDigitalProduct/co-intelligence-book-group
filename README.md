@@ -48,18 +48,21 @@ the photos to your agent, and ask it to fill in the table.
 | Persona | What it does |
 |---|---|
 | **skeptic** | Argues *against* the chapter's central claims, as strongly as honesty allows |
+| **optimist** | Reads the chapter through the lens of possibility — what becomes possible if it's right, and where it was too cautious |
 | **historian** | Compares the chapter's claims to how past technologies actually played out |
 | **practitioner** | Extracts what we should each actually do differently at work this week |
 | **fact-checker** | Tests whether the chapter's claims and sources have held up since publication |
 | **synthesizer** | Reads everything in a chapter folder and writes the pre-meeting brief or post-meeting `synthesis.md` |
+| **interviewer** | Asks *you* a few light questions ("What stood out? What is the author missing?") and drafts your notes file in your own words — the cure for the blank page |
 
 To use one, tell your agent something like:
 
 > Read `personas/skeptic.md` and write a skeptic take on chapter 2 for me
 > (I'm Keith). Follow the repo conventions in `AGENTS.md`.
 
-**Claude Code users** get these as slash commands: `/skeptic`, `/historian`,
-`/practitioner`, `/fact-checker`, `/synthesize` (wired up in `.claude/skills/`).
+**Claude Code users** get these as slash commands: `/skeptic`, `/optimist`,
+`/historian`, `/practitioner`, `/fact-checker`, `/synthesize`, `/interview`
+(wired up in `.claude/skills/`).
 Users of Codex or other harnesses use the plain prompt files in `personas/` —
 same content, no magic required.
 
