@@ -6,7 +6,18 @@
 
 ## Meeting shortlist
 
-_(facilitator fills this in before the meeting)_
+_(picked by Keith, facilitating, for the 2026-08-12 kickoff meeting on
+chapters 0–1)_
+
+1. Did you have a "three sleepless nights" moment with AI? What triggered it —
+   and was the threshold conversation (what it says) or creation (what it let
+   you make)?
+2. Mollick was shaken when AI produced 80% of a tool from his expertise in
+   minutes. Keith's counter: 80% of a demo is ~10% of the work of something
+   valuable, so domain expertise isn't really endangered. Who's closer to
+   right — and does the answer change as models improve?
+3. Based on your experience with LLMs until now, is the vision of AI as a true
+   Co-Intelligence coexisting with humans viable? Is it already here?
 
 ## Question pool
 

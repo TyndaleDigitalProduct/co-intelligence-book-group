@@ -6,7 +6,18 @@
 
 ## Meeting shortlist
 
-_(facilitator fills this in before the meeting)_
+_(picked by Keith, facilitating, for the 2026-08-12 kickoff meeting on
+chapters 0–1)_
+
+1. The chapter's core metaphor is the **alien mind**. Does "alien" illuminate
+   or obscure? What behavior of your own AI use fits the metaphor best — and
+   what breaks it?
+2. Hallucination is presented as structural, not a bug to be patched out.
+   Two-plus years later, was that right? Has your trust calibration changed?
+3. The training corpus is scraped human writing, much of it uncompensated and
+   contested in court. Does that origin change which uses of AI feel
+   legitimate to you — especially for us, working upstream of it in
+   publishing?
 
 ## Question pool
 
