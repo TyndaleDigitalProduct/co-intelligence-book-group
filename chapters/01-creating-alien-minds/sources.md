@@ -52,3 +52,22 @@ ourselves. The `#` column is the page in the chapter the note points to.
 - Financial Times, "Generative AI exists because of the transformer" (2023) —
   a visual, interactive explanation of next-token prediction:
   [ig.ft.com/generative-ai](https://ig.ft.com/generative-ai/) — added by Keith's agent
+- *Bartz v. Anthropic* settlement, final approval July 2026 — $1.5B to authors
+  (~$3,000/book across ~482,000 works) for pirated books in the training
+  corpus; updates the p. 12 training-data discussion:
+  [TechCrunch](https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/),
+  [Publishing Perspectives](https://publishingperspectives.com/2026/07/court-grants-final-approval-to-landmark-1-5-billion-anthropic-settlement/)
+  — added by Keith's agent
+- *Kadrey v. Meta*, N.D. Cal., June 2025 — summary judgment that training on
+  books is fair use (the piracy, not the training, is the exposure); the other
+  half of the emerging legal split: — added by Keith's agent, `unverified`
+  link pending a public docket copy
+- Books3 taken offline by anti-piracy group (Aug 2023); EleutherAI restricted
+  the full Pile — the p. 12 dataset as described no longer exists in that form:
+  [Interesting Engineering](https://interestingengineering.com/innovation/anti-piracy-group-shuts-down-books3-a-popular-dataset-for-ai-models)
+  — added by Keith's agent
+- Lawfare, "What DeepSeek R1 Means — and What It Doesn't" (2025) — the $5.6M
+  training-cost claim and why it's a marginal-cost figure, the sharpest
+  counterpoint to the p. 12 "$100M+" framing:
+  [lawfaremedia.org](https://www.lawfaremedia.org/article/what-deepseek-r1-means-and-what-it-doesn-t)
+  — added by Keith's agent

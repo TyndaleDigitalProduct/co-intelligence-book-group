@@ -6,22 +6,34 @@
 
 ## Meeting shortlist
 
-_(picked by Keith, facilitating, for the 2026-08-12 kickoff meeting on
-chapters 0–1)_
+_(picked by Keith, facilitating, for the 2026-08-19 meeting on chapter 1)_
 
-1. The chapter explains these systems through two metaphors — the **alien
-   mind** and the **amateur chef** apprenticing on everyone else's recipes.
-   Which one matches your actual experience of using AI, where do they break,
-   and does the chef story still describe how models are built now
-   (reinforcement learning, thinking models)?
-2. Mollick repeats the claim that nobody fully knows why LLMs produce
-   creative, "emergent" responses — the "stochastic parrots" debate. Two-plus
-   years on: do we know more now, and how comfortable are we using a
-   technology whose makers can't fully explain it?
-3. The training corpus is scraped human writing, much of it uncompensated and
-   contested in court. As people at a publisher — upstream of this question —
-   where do our obligations to authors and our practical use of these tools
-   actually sit?
+1. Page 12 said the corpus was "whatever they could scrape" — Enron's emails
+   included. Since then: Books3 forced offline, Anthropic's $1.5B settlement
+   (~$3,000 per book, final approval July 2026, checks going out now), and
+   *Kadrey v. Meta* holding that training is fair use even though pirating
+   the books is not. The settlement is a license-shaped outcome — exactly the
+   pattern the historian take predicted from piano rolls, photocopying, and
+   Napster. As the party receiving the checks: does this settle our question
+   about the corpus, or just reprice it?
+2. Page 12's other claim — "$100M+ to train" — held up and then got lapped:
+   frontier runs now cost $200–500M and grow 2–3x a year, yet DeepSeek claimed
+   a $5.6M training run in Jan 2025 (all-in estimates run closer to $1.3B).
+   Which half was Mollick right to build on: only-giants-can-play, or
+   efficiency-eats-the-moat?
+3. The historian and optimist takes converge from opposite directions on one
+   claim: opacity became tolerable historically only when a *disinterested
+   party* built the test (boiler codes, drug efficacy trials), and secondhand
+   benchmark numbers mislead in both directions (bar-exam deflation, MMLU
+   saturation). The optimist proposes we write our own: ten real cases from
+   one recurring Tyndale judgment task, our experts vs. this year's models,
+   logged in `experiments/`. Is that the group's next move — and who in this
+   room would own it?
+4. Hallucination is presented as structural, not a bug to be patched out
+   (p. 25's tic-tac-toe demo: writes the game, misreads the board). Two-plus
+   years later, was that right? Has your own trust calibration changed — and
+   is "wrong while sounding authoritative" still the thing no historical
+   precedent covers?
 
 ## Question pool
 
@@ -64,3 +76,19 @@ chapters 0–1)_
   around models trained on scraped and copyrighted content — where do our
   obligations to authors and our practical use of these tools actually sit?
   — Keith
+- Reality check on p. 12's "$100M to train": the number held up and then got
+  lapped — GPT-5/Gemini-class runs are now estimated at $200–500M and rising
+  2–3x a year — yet the same Wired article had Altman declaring "the age of
+  giant AI models is already over," and DeepSeek claimed a $5.6M training run
+  in Jan 2025 (all-in estimates put its real infrastructure closer to $1.3B).
+  Which half of the story was Mollick right to build on: only-giants-can-play,
+  or efficiency-eats-the-moat? — Keith's agent
+- Reality check on p. 12's Enron/Pile anecdote: since publication, Books3 was
+  forced offline, Anthropic settled with authors for $1.5B (~$3,000 per book,
+  final approval July 2026, checks now going out), and *Kadrey v. Meta* held
+  that training itself is fair use even though pirating the books is not.
+  "They trained on whatever they could scrape" has become a priced liability —
+  and the settlement is a license-shaped outcome, exactly the pattern the
+  historian take predicted. As the party receiving the checks, does this
+  settle our chapter-1 question about the corpus, or just reprice it?
+  — Keith's agent
