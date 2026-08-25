@@ -31,3 +31,8 @@ ourselves. The `#` column is the page in the chapter the note points to.
 ## Related reading (not cited, but relevant)
 
 - _(add freely — sign your additions)_
+- [California SB 53, the Transparency in Frontier AI Act, explained](https://fpf.org/blog/californias-sb-53-the-first-frontier-ai-law-explained/) (Future of Privacy Forum) — the first binding US frontier-AI law (signed Sept 2025, effective Jan 2026); tests the p. 44 "regulation lags" prediction. — Keith's agent
+- [Skadden client alert on the June 2026 executive order](https://www.skadden.com/insights/publications/2026/06/new-ai-executive-order) — the voluntary pre-release review framework for frontier models; pairs with p. 44 as a then-vs-now reading. — Keith's agent
+- [IAPP on the US order forcing suspension of two frontier models](https://iapp.org/news/a/thought-for-the-week-us-government-order-forces-commercial-suspension-of-two-fronteir-ai-models) — the coercive counterpoint to the voluntary framework (June 2026). — Keith's agent
+- [METR's comparison of frontier AI safety policies](https://metr.org/fsp) — side-by-side of the labs' voluntary frameworks (Anthropic RSP, OpenAI Preparedness, DeepMind FSF); what "self-policing" (pp. 38–41) became. — Keith's agent
+- [Asia Society: China's emerging approach to regulating general-purpose AI](https://asiasociety.org/policy-institute/chinas-emerging-approach-regulating-general-purpose-artificial-intelligence-balancing-innovation-and) — China's binding-but-content-focused regime, the track the chapter doesn't cover. — Keith's agent
