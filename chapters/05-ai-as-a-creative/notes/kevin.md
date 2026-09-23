@@ -46,10 +46,6 @@ photography, clerks after spreadsheets). But every one of those took years and
 plenty of people didn't make it through. "We" got through it. A lot of
 individuals didn't.
 
-**Small one:** p. 117 says 31 percent of people feel they're living up to
-their creative potential. The optimist take I ran on this chapter says "about
-half," which doesn't match the book.
-
 ## Connections
 
 **Chapter 4, p. 66.** I wondered if he'd come back to "ask it why and it just
