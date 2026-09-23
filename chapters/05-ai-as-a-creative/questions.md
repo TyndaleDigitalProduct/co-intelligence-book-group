@@ -10,4 +10,13 @@ _(facilitator fills this in before the meeting)_
 
 ## Question pool
 
-- _(none yet — add yours!)_
+- If a message matters because someone spent time on it (p. 121), what
+  happens to thank-you notes, personal replies, and reviews once everyone
+  knows AI could have written them? Does that kind of signal just move
+  somewhere else, like a phone call or showing up in person? — kevin
+- p. 115 says writers and editors are the best prompters. If that's true, are
+  our editors actually in the room when we try out these tools, or is it
+  mostly the tech people? — kevin
+- If newer people learn a job by editing AI drafts instead of writing from
+  scratch (p. 120), do they ever build the judgment to know when a draft is
+  wrong? — kevin
