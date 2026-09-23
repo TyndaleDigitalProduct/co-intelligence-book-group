@@ -44,7 +44,7 @@ thinking about it. It's less of a tradeoff and more like picking the right
 setting for the job.
 
 And The Button on p. 119, the one that writes the whole thing for you, always
-gets talked about as a trap. But the same page has an Adobe number saying only
+gets talked about as a trap. But back on p. 117 there's an Adobe number saying
 only 31 percent of people feel like they're living up to their creative potential.
 The Button's only a problem if you use it on work that actually matters. Use
 it on the busywork and it frees up time for the stuff you care about.
