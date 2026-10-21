@@ -65,6 +65,73 @@ or is that the teacher's job?
 he talks about prompting. Whatever trick works now probably won't matter in a
 year.
 
+## Real-world examples (outside the book)
+
+I went looking for whether any of this is actually happening in schools.
+It is, and the results basically line up with the chapter: AI helps when
+it's built to teach or backs up a real teacher, and it hurts when kids can
+just pull answers out of it.
+
+**It worked:**
+
+- **Nigeria (World Bank, 2024).** High schoolers used GPT-4 twice a week
+  after school for six weeks on English, with teachers in the room. They
+  gained something like 1.5 to 2 years of normal school learning. Honestly
+  the teachers being there probably mattered a lot.
+  [World Bank write-up](https://blogs.worldbank.org/en/education/From-chalkboards-to-chatbots-Transforming-learning-in-Nigeria)
+- **Harvard intro physics (2025).** Students learned about twice as much
+  from a custom AI tutor at home as from a really good in-class lesson, in
+  less time. The catch: the tutor was carefully designed to teach, not just
+  plain ChatGPT. [Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12179260/)
+- **Ghana, "Rori."** A math tutor that runs on WhatsApp on cheap phones,
+  about $5 a student. Kids in grades 3 to 9 got roughly an extra year of
+  math out of it. First-year results only, though.
+  [Study](https://scale.stanford.edu/publications/effective-and-scalable-math-support-experimental-evidence-impact-ai-math-tutor-ghana)
+- **Tutor CoPilot (Stanford, 2024).** This one flips it: the AI coached the
+  human tutors on what to say next. Students were more likely to master the
+  math, especially kids with weaker tutors, and it cost about $20 per tutor
+  a year. [Study](https://nssa.stanford.edu/studies/tutor-copilot-human-ai-approach-scaling-real-time-expertise)
+
+**It backfired:**
+
+- **Turkey high school math (Wharton, 2024).** Kids with plain ChatGPT did
+  way better on practice problems, then 17% *worse* on the real test than
+  kids who never had it. They were using it as a crutch. A version prompted
+  to tutor instead of hand over answers mostly fixed that.
+  [Paper](https://nmdprojects.net/teaching_resources/bastani_generative_ai_can_harm_learning.pdf)
+- **South Korea's AI textbooks (2025).** A national rollout that cost about
+  $900 million. Glitches, wrong facts, and teachers pushing back got it made
+  optional within four months, and by August it wasn't legally a textbook
+  anymore. [Privacy International](https://privacyinternational.org/examples/5708/ai-powered-textbooks-fail-make-grade-south-korea)
+- **Alpha School (Texas).** Private school, about two hours of AI-driven
+  lessons a day, claims top-1% test scores but doesn't publish its data.
+  Reporting has described sloppy AI lessons and student data left exposed.
+  [Overview](https://liveinthefuture.org/alpha-school-eval)
+
+**Being rolled into schools and curriculum:**
+
+- **Estonia's "AI Leap."** Reached 154 of the country's 156 upper high
+  schools in the 2025 to 2026 school year, about 20,000 students.
+  [e-Estonia](https://e-estonia.com/estonias-ai-leap-learning-to-think-in-the-ai-age/)
+- **US states.** 11 AI-in-schools bills passed in 2026. Alabama now makes a
+  computer science class with AI a graduation requirement, and Maryland
+  wants AI literacy in K-12 standards by June 2027.
+  [FutureEd tracker](https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/)
+- **Teacher-side tools.** England's Oak National Academy has a free AI
+  lesson planner ("Aila") that it says saves teachers 3 to 4 hours a week,
+  with an independent trial due this fall. Iceland gave teachers nationwide
+  AI for lesson prep in a pilot that started November 2025.
+  [Aila trial](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/aila-teacher-choices-trial),
+  [Iceland](https://anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots)
+- **Khanmigo.** The tool behind the Sal Khan talk he cites on p. 176 is now
+  sold to school districts, but I couldn't find any independent results,
+  just Khan's own material.
+
+What I take from it: the Turkey study is basically my p. 163 grading
+question with numbers attached. And Tutor CoPilot is a decent answer to
+"who checks the tutor?" (p. 175): put the AI behind the teacher instead of
+in front of the kid.
+
 ## Questions I'm bringing
 
 - If you can't detect AI writing (p. 163), what should a teacher actually be
